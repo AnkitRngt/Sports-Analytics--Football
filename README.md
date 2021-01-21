@@ -1,2 +1,2 @@
 # Sports Analytics: Football
- Algorithm to select best players in Football through Python
+ Algorithm to select best players in Football using Python
